@@ -7,4 +7,4 @@
 6. react-countup
 
 ## Live site link: 
- https://covid-19-tracker-237d7.web.app/
+ https://covid-19-tracker-237d7.web.app/ or https://covid-19-tracker-237d7.firebaseapp.com/
