@@ -1,3 +1,5 @@
+### A webapp that tells the stats of spread of corona virus across the world
+
 # Tools used
 1. create-react-app
 2. material-ui
